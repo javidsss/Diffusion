@@ -1,7 +1,7 @@
 <h1>Diffusion</h1>
 <p>A simple implementation of a diffusion model based on the below papers. This model was trained on StanfordCars dataset</p>
 <p align="center">
-<img width="300" height="300" src="https://github.com/javidsss/Diffusion/blob/main/Sample_Output.png">
+<src="https://github.com/javidsss/Diffusion/blob/main/Sample_Output.png">
 <p>
 
 The papers that were used to develop the model:
